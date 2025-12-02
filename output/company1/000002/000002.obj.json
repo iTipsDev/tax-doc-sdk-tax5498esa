@@ -1,0 +1,43 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "62-240-8359",
+  "taxFormId" : "5296520",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0802647",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Little-Rempel"
+    },
+    "address" : {
+      "line1" : "649 Solomon Flat",
+      "city" : "Angelinefurt",
+      "region" : "TX",
+      "postalCode" : "08381"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jerry.botsford@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-98-8643",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Leighann",
+      "last" : "Hirthe"
+    },
+    "address" : {
+      "line1" : "398 Marvin Stravenue",
+      "city" : "Port Carlos",
+      "region" : "AZ",
+      "postalCode" : "81592"
+    },
+    "email" : "nathanael.kerluke@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "481-29533-1",
+  "coverdellEsaContributions" : 200,
+  "rolloverContributions" : 300
+}

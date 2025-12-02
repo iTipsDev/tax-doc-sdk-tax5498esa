@@ -1,0 +1,43 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "46-348-3267",
+  "taxFormId" : "6472703",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0802647",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Little-Rempel"
+    },
+    "address" : {
+      "line1" : "649 Solomon Flat",
+      "city" : "Angelinefurt",
+      "region" : "TX",
+      "postalCode" : "08381"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jerry.botsford@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-16-2444",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Casie",
+      "last" : "Bogan"
+    },
+    "address" : {
+      "line1" : "14857 Donn Well",
+      "city" : "South Branden",
+      "region" : "ND",
+      "postalCode" : "11594"
+    },
+    "email" : "ernest.oberbrunner@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "016-77083-0",
+  "coverdellEsaContributions" : 200,
+  "rolloverContributions" : 300
+}

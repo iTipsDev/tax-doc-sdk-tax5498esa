@@ -1,0 +1,43 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "46-961-4199",
+  "taxFormId" : "7579245",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0802647",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Little-Rempel"
+    },
+    "address" : {
+      "line1" : "649 Solomon Flat",
+      "city" : "Angelinefurt",
+      "region" : "TX",
+      "postalCode" : "08381"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jerry.botsford@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-74-7048",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Kraig",
+      "last" : "Koss"
+    },
+    "address" : {
+      "line1" : "609 Bernhard Parkway",
+      "city" : "Colbystad",
+      "region" : "SD",
+      "postalCode" : "03850"
+    },
+    "email" : "mayme.turner@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "709-48428-2",
+  "coverdellEsaContributions" : 200,
+  "rolloverContributions" : 300
+}
