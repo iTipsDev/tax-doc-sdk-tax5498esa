@@ -1,0 +1,51 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "79-740-0855",
+  "taxFormId" : "3457528",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0233286",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Macejkovic Group"
+    },
+    "address" : {
+      "line1" : "4289 Breitenberg Walk",
+      "city" : "Efrenshire",
+      "region" : "IL",
+      "postalCode" : "22128",
+      "unitType" : "Apt",
+      "unitNumber" : "718"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jaime.swaniawski@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-20-0493",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Josh",
+      "middle" : "Harris",
+      "last" : "Kertzmann"
+    },
+    "businessName" : {
+      "name1" : "Langosh, Cremin and Kreiger"
+    },
+    "address" : {
+      "line1" : "9332 Rickey Cove",
+      "city" : "East Hattiefort",
+      "region" : "MA",
+      "postalCode" : "12962",
+      "unitType" : "Apt",
+      "unitNumber" : "470"
+    },
+    "email" : "davina.gottlieb@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "518-80264-7",
+  "coverdellEsaContributions" : 200,
+  "rolloverContributions" : 300
+}

@@ -1,0 +1,51 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "30-136-8735",
+  "taxFormId" : "9163735",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0233286",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Macejkovic Group"
+    },
+    "address" : {
+      "line1" : "4289 Breitenberg Walk",
+      "city" : "Efrenshire",
+      "region" : "IL",
+      "postalCode" : "22128",
+      "unitType" : "Apt",
+      "unitNumber" : "718"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jaime.swaniawski@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-76-8086",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Tora",
+      "middle" : "Kevin",
+      "last" : "Kulas"
+    },
+    "businessName" : {
+      "name1" : "Turcotte-Emard"
+    },
+    "address" : {
+      "line1" : "9543 Marline Plains",
+      "city" : "Veldastad",
+      "region" : "NC",
+      "postalCode" : "69060",
+      "unitType" : "Apt",
+      "unitNumber" : "544"
+    },
+    "email" : "anibal.miller@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "164-50584-8",
+  "coverdellEsaContributions" : 200,
+  "rolloverContributions" : 300
+}

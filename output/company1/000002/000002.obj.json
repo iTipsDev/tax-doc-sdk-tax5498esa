@@ -1,0 +1,51 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "09-373-1587",
+  "taxFormId" : "5055861",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0233286",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Macejkovic Group"
+    },
+    "address" : {
+      "line1" : "4289 Breitenberg Walk",
+      "city" : "Efrenshire",
+      "region" : "IL",
+      "postalCode" : "22128",
+      "unitType" : "Apt",
+      "unitNumber" : "718"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jaime.swaniawski@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-56-4166",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Jade",
+      "middle" : "Jordan",
+      "last" : "Mayert"
+    },
+    "businessName" : {
+      "name1" : "Kuhlman-Lesch"
+    },
+    "address" : {
+      "line1" : "698 Ullrich Curve",
+      "city" : "North Earleview",
+      "region" : "CA",
+      "postalCode" : "85416",
+      "unitType" : "Apt",
+      "unitNumber" : "504"
+    },
+    "email" : "dino.rosenbaum@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "936-60356-4",
+  "coverdellEsaContributions" : 200,
+  "rolloverContributions" : 300
+}
